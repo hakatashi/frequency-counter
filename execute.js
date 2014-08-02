@@ -91,7 +91,7 @@ for (var language in reserved) {
 			return b[1] - a[1];
 		});
 
-		for (var i = 0; i < 5; i++) {
+		for (var i = 0; i < 10; i++) {
 			console.log(ranking[i][0] + ': ' + ranking[i][1]);
 		}
 	}
