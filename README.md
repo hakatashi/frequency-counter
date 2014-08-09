@@ -1,6 +1,6 @@
-### 予約語頻度解析
+# Analysis of the Frequency of Reserved Word Appearance in Programming Languages
 
-## 学習データ
+## Sources
 
     C#: Open XML SDK
     C++: MySQL 5.5.37
@@ -13,7 +13,7 @@
 	Ruby: Ruby on Rails
 	Visual Basic: HiJackThis 2.0.4
 
-## 実行結果
+## Results
 
 ### JavaScript
 
