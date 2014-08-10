@@ -9,6 +9,7 @@
     JavaScript: jQuery 2.1.1, MooTools 1.5.0, Prototype.js 1.7.2.0
 	Haskell: pandoc 1.12.4.2
 	Objective-C: AFNetworking 2.3.1
+	Perl: mojo 5.26
 	PHP: CakePHP 2.5.3
 	Python: Django
 	Ruby: Ruby on Rails
@@ -196,3 +197,18 @@
 | `implicit` | 175   |
 | `else`     | 175   |
 | `private`  | 163   |
+
+### Perl
+
+| word     | count |
+|----------|-------|
+| `my`     | 1007  |
+| `sub`    | 637   |
+| `return` | 555   |
+| `if`     | 399   |
+| `@_`     | 395   |
+| `shift`  | 389   |
+| `$_`     | 247   |
+| `unless` | 221   |
+| `eq`     | 210   |
+| `use`    | 169   |

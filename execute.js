@@ -50,6 +50,10 @@ var strips = {
 	'Haskell': [
 		/\{-[\s\S]*?-\}/g,
 		/--.*$/mg
+	],
+	'Perl': [
+		/#.*$/mg,
+		/=(pod|encoding|head)[\s\S]*?=cut/g
 	]
 }
 
