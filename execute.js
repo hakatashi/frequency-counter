@@ -42,6 +42,9 @@ var strips = {
 	],
 	'Erlang': [
 		/%.*$/mg
+	],
+	'Haskell': [
+		/\{[\s\S]*?\}/g
 	]
 }
 

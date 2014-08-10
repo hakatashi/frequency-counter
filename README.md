@@ -7,6 +7,7 @@
 	Erlang: OTP 17.1.2
 	Java: Apache Common Lang 3.3.2
     JavaScript: jQuery 2.1.1, MooTools 1.5.0, Prototype.js 1.7.2.0
+	Haskell: pandoc 1.12.4.2
 	Objective-C: AFNetworking 2.3.1
 	PHP: CakePHP 2.5.3
 	Python: Django
@@ -164,3 +165,18 @@
 | `after`   | 153   |
 | `try`     | 66    |
 | `if`      | 63    |
+
+### Haskell
+
+| word     | count |
+|----------|-------|
+| `let`    | 844   |
+| `do`     | 625   |
+| `import` | 555   |
+| `if`     | 539   |
+| `of`     | 511   |
+| `else`   | 486   |
+| `then`   | 481   |
+| `case`   | 275   |
+| `in`     | 203   |
+| `where`  | 193   |
