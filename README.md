@@ -12,6 +12,7 @@
 	PHP: CakePHP 2.5.3
 	Python: Django
 	Ruby: Ruby on Rails
+	Scala: gitbucket 2.2.1
 	Visual Basic: HiJackThis 2.0.4
 
 ## Results
@@ -180,3 +181,18 @@
 | `case`   | 277   |
 | `where`  | 193   |
 | `in`     | 117   |
+
+# Scala
+
+| word       | count |
+|------------|-------|
+| `val`      | 641   |
+| `def`      | 535   |
+| `import`   | 510   |
+| `case`     | 414   |
+| `if`       | 339   |
+| `new`      | 234   |
+| `with`     | 218   |
+| `implicit` | 175   |
+| `else`     | 175   |
+| `private`  | 163   |
