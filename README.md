@@ -1,4 +1,4 @@
-# Analysis of the Appearence Frequency of Reserved Words in Programming Languages
+# Analysis of the Appearence of Reserved Words in Programming Languages
 
 ## Sources
 
